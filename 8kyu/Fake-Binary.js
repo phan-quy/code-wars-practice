@@ -3,6 +3,14 @@
 
 // My solution
 
+
+
+
+
+
+
+
+
 function fakeBin(x){
 
     let splitdigit = x.split('')
